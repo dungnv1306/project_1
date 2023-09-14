@@ -178,6 +178,7 @@
                                 </div>
                             </div>
                             <a href="index.php?act=contact" class="nav-item nav-link">Contact</a>
+                            <a href="index.php?act=bill" class="nav-item nav-link">Bill</a>
                         </div>
                         <div class="navbar-nav ml-auto py-0 d-none d-lg-block">
                             <a href="" class="btn px-0">
